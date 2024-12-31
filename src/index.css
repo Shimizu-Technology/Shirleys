@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Edwardian Script ITC';
+  src: url('https://db.onlinewebfonts.com/t/06f0c8c08c7f62ea727e0de7d3c0e14e.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'SignPainter';
+  src: url('https://db.onlinewebfonts.com/t/2defcb2c1a8552193a2e16e2f65c1c3e.woff2') format('woff2');
+}
+
+body {
+  @apply antialiased;
+}
+
+.font-script {
+  font-family: 'SignPainter', cursive;
+}
+
+.font-brand {
+  font-family: 'Edwardian Script ITC', cursive;
+}
