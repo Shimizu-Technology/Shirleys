@@ -1,4 +1,4 @@
-import RestaurantImage from '../assets/restaurant.jpeg';
+import GenericPlaceholder from '../assets/generic-image-placeholder.png';
 
 export default function Story() {
   return (
@@ -10,7 +10,7 @@ export default function Story() {
               <div className="relative h-48 w-full md:w-48">
                 <img
                   className="h-full w-full object-cover"
-                  src={RestaurantImage}
+                  src={GenericPlaceholder}
                   alt="Restaurant interior"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
