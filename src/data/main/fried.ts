@@ -1,6 +1,6 @@
 export const FRIED_ITEMS = [
   {
-    name: "Shirley's Special Half Chicken",
+    name: "House Special Half Chicken",
     price: 13.50,
     isBestSeller: true
   },
@@ -25,6 +25,6 @@ export const FRIED_ITEMS = [
   {
     name: 'Shrimp & Chicken Combo',
     price: 15.00,
-    description: 'Deep-fried shrimp + Shirley\'s special fried chicken, cut corn on side'
+    description: 'Deep-fried shrimp + our special fried chicken, cut corn on side'
   }
 ];

@@ -23,7 +23,7 @@ export const DESSERTS: DessertItem[] = [
     isNew: true
   },
   {
-    name: "Shirley's Famous Crepe",
+    name: "Famous House Crepe",
     price: 7.75,
     doublePrice: 8.75
   },

@@ -9,7 +9,7 @@ export const FRIED_RICE = [
     price: 9.75
   },
   {
-    name: "Shirley's Fried Rice",
+    name: "House Special Fried Rice",
     price: 10.25
   },
   {

@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import Header from './components/Header';
 import Story from './components/Story';
 import MenuNav from './components/MenuNav';
@@ -73,7 +73,7 @@ export default function App() {
       <footer className="bg-brown-800 text-white py-8 mt-16">
         <div className="container mx-auto px-4 text-center">
           <p className="text-sm">
-            © {new Date().getFullYear()} Shirley's Coffee Shop - Home of the Best Fried Rice
+            © {new Date().getFullYear()} Cozy Coffee Shop - Home of the Best Fried Rice
           </p>
           <div className="mt-4 space-x-6">
             <a href="tel:+16702355379" className="text-white hover:text-amber-200 transition-colors duration-200">

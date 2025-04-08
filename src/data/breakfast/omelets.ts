@@ -12,7 +12,7 @@ export const OMELETS = [
     isHealthy: true
   },
   {
-    name: "Shirley's Special",
+    name: "House Special",
     description: 'Shrimp, ham, bacon, bell pepper, onions, and more.',
     price: 11.75,
     isBestSeller: true
